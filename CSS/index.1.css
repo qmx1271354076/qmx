@@ -1,0 +1,200 @@
+img {
+	display: block;
+}
+
+.ctop {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.cl {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.cr {
+	margin-left: 580px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#ctop {
+	background: white;
+	width: 900px;
+	height: 400px;
+	float: left;
+}
+
+#cl {
+	background: white;
+	width: 900px;
+	height: 270px;
+	float: left;
+}
+
+#cl ul {
+	color: white;
+}
+
+#cl ul h1 {
+	margin-left: 350px;
+	margin-top: -200px;
+	font-size: 19px;
+}
+
+#cl ul h1 a {
+	color: #6d5390;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;
+}
+
+#cl ul h1 a:hover {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+#cl p {
+	color: #444444;
+	margin-left: 350px;
+	margin-right: 20px;
+	text-align: justify;
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+#cr {
+	background: white;
+	width: 900px;
+	height: 270px;
+	float: left;
+}
+
+#cr ul h1 {
+	margin-right: 350px;
+	margin-left: 20px;
+	margin-top: -200px;
+	font-size: 19px;
+}
+
+#cr ul h1 a {
+	color: #6d5390;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;
+
+}
+
+#cr ul h1 a:hover {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+#cr p {
+	color: #444444;
+	margin-right: 350px;
+	margin-left: 20px;
+	text-align: justify;
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+#cl2 {
+	background: white;
+	width: 450px;
+	height: 450px;
+	float: left;
+}
+
+#cl2 ul {
+	color: gray;
+}
+
+#cl2 ul h1 {
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+#cl2 ul h1 a {
+	color: #F0CC06;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;
+}
+
+#cl2 ul h1 a:hover {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+#cl2 p {
+	margin-left: 20px;
+	margin-right: 25px;
+	text-align: justify;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+#cl2 p a {
+	color: #444444;
+	display: inline-block;
+	width: 400px;
+	height: 80px;
+	text-decoration: none;
+}
+
+#cl2 p a:hover {
+	text-decoration: underline;
+}
+
+#cr2 {
+	background: white;
+	width: 450px;
+	height: 450px;
+	float: left;
+}
+
+#cr2 ul {
+	color: gray;
+}
+
+#cr2 ul h1 {
+	margin-left: 30px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+#cr2 ul h1 a {
+	color: #F0CC06;
+	display: inline-block;
+	width: 100px;
+	text-decoration: none;
+}
+
+#cr2 ul h1 a:hover {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+#cr2 p {
+	margin-left: 30px;
+	margin-right: 20px;
+	text-align: justify;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+#cr2 p a {
+	color: #3C3C3C;
+	display: inline-block;
+	width: 400px;
+	height: 80px;
+	text-decoration: none;
+}
+
+#cr2 p a:hover {
+	text-decoration: underline;
+}

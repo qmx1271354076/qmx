@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+	display: block;
+}
+.ctop h2{
+	text-align: center;
+	margin-top:35px;
+}
+.cl{
+	margin-top: 18px;
+	margin-left: 30px;
+}
+.cr li{
+	margin-top: 22px;
+}
+.mp4{
+	margin-top:30px;
+	margin-left:200px;
+}
+#ctop{
+	background: white; 
+	width: 900px;
+	height: 100px;
+	float: left;
+	color:#F0CC06;
+}
+#cl{
+	background:white;
+	width:300px;
+	height:460px;
+	float: left;
+}
+#cr{
+	background:white;
+	width:600px;
+	height: 460px;
+	line-height: 25px;
+	float: left;
+	text-align: justify;
+}
+#cr li{
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 17px;
+	letter-spacing: 1px;
+}
+#cr ul{
+	color:#444444;
+}
+#cbottom{
+	background: white;
+	width:900px;
+	height:400px;
+	float: left;
+}
+#cbottom h2{
+	margin-top:10px;
+	margin-left:20px;
+}
