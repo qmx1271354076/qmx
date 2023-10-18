@@ -1,0 +1,19 @@
+li img {
+    width: 860px;
+    height: 400px;
+}
+
+#ctop {
+    overflow: hidden;
+    width: 900px;
+    height: 400px;
+}
+
+#imglist {
+    width: 3200px;
+    height: 400px;
+}
+
+#imglist li {
+    float: left;
+}
